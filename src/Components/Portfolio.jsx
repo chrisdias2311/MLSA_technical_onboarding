@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hack It Sapiend national level hackathon winner 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and implemented a machine learning model to analyze patients’ daily medical data, including parameters like Blood Pressure and Heart Rate, to predict their health status.",
+    url: "https://devfolio.co/projects/surakshak-e928",
   },
   {
-    title: "Web Development for Beginners",
+    title: "UniEx, an initialtive for university students",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Conceptualized and created a Web application catering to college students, enabling them to buy and sell second-hand books and stationary items within the campus resulting in over 100+ transactions.",
+    url: "https://uniex-82398.web.app/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://jolly-pebble-01e1cfd00.3.azurestaticapps.net/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Secured Globalrank 3602 in Google Kickstart 2022 (Round H) ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " ",
+    url: "https://drive.google.com/file/d/1OuMmKNNvZ1fiYaoLhxOQ-YzVOKmcc3fA/view",
   },
 ];
 
